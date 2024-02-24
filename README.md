@@ -1,3 +1,20 @@
-# NWS
+# NWS group
 
-💥 ¡Descubre soluciones de software a medida para llevar tu negocio al siguiente nivel! NWS es un grupo de expertos en desarrollo de software e inteligencia artificial. Estamos comprometidos en crear tus ideas. 💯
+![Logo](https://github.com/nwsgroup/.github/assets/105291217/868068ae-a9b6-4971-a7db-8e2a09a171af)
+
+
+# 💥 About us 
+
+At NWS Group, we specialize in creating powerful software solutions while venturing into the exciting realm of artificial intelligence research. Join us as we pave the way for future technology advancements. Together, we innovate! 💡
+
+
+# 📥 Contact us
+
+For inquiries, please contact us at nwsgroup.contact@gmail.com
+
+# 🌐 Social media
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/100444095/admin/feed/posts/)
+
+
+

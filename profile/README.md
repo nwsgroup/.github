@@ -9,7 +9,7 @@ At NWS Group, we specialize in creating powerful software solutions while ventur
 
 # 📥 Contact us
 
-For inquiries, please contact us at nwsgroup.contact@gmail.com
+For inquiries, please contact us at nwsgroup8@gmail.com
 
 # 🌐 Social media
 
